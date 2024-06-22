@@ -1,4 +1,15 @@
 # Sistema de Gestión de Usuarios y Roles - API REST con ASP.NET Core y JWT
+
+<div align="center">
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="net core" alt="net core" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>
+</a>
+</div>
+
 Este repositorio contiene una aplicación completa para la gestión de usuarios y roles, desarrollada como parte de una prueba de desarrollo para FYM Technology. La aplicación consta de una API REST construida con ASP.NET Core y documentada con Swagger, así como una aplicación cliente para consumir los servicios REST.
 
 
